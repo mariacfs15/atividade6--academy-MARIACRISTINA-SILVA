@@ -1,0 +1,129 @@
+[
+
+  {
+    "id": "c5a57a75-6c79-46e9-9b58-fad19caefccd",
+    "name": "fakerAssunta",
+    "email": "asa_kihn@yahoo.com",
+    "createdAt": "2024-05-04T23:53:29.225Z",
+    "updatedAt": "2024-05-04T23:53:29.225Z"
+  },
+  {
+    "id": "87e15066-1ac6-4ad6-9ba6-6cc842f44d31",
+    "name": "Maria Jose",
+    "email": "mariajose@example.com",
+    "createdAt": "2024-05-05T00:28:39.576Z",
+    "updatedAt": "2024-05-05T00:28:39.576Z"
+  },
+  {
+    "id": "b7e8b818-a62d-4f2c-99b3-db017b8b1f6e",
+    "name": "Internal Brand Assistant",
+    "email": "luciano67@gmail.com",
+    "createdAt": "2024-05-05T00:31:50.193Z",
+    "updatedAt": "2024-05-05T00:31:50.193Z"
+  },
+  {
+    "id": "c8331165-a03f-4e2e-a869-ee3c98c4d958",
+    "name": "Maria Jose Cardoso",
+    "email": "mariajosec@example.com",
+    "createdAt": "2024-05-05T00:36:15.417Z",
+    "updatedAt": "2024-05-05T00:36:15.417Z"
+  },
+  {
+    "id": "ba18fdfc-9e77-4cce-ba53-0a876a775366",
+    "name": "Rosemary Bednar PhD",
+    "email": "etha6@gmail.com",
+    "createdAt": "2024-05-05T00:48:32.748Z",
+    "updatedAt": "2024-05-05T00:48:32.748Z"
+  },
+  {
+    "id": "a557f771-0bb8-4aed-92d6-8275347b1b25",
+    "name": "Roosevelt Murray",
+    "email": "myrtie_leannon@hotmail.com",
+    "createdAt": "2024-05-05T00:48:48.013Z",
+    "updatedAt": "2024-05-05T00:48:48.013Z"
+  },
+  {
+    "id": "12580996-5a45-46de-b82e-310f74e2e1ce",
+    "name": "Kristie Langworth Sr.",
+    "email": "garth13@hotmail.com",
+    "createdAt": "2024-05-05T00:49:16.271Z",
+    "updatedAt": "2024-05-05T00:49:16.271Z"
+  },
+  {
+    "id": "346ede03-be36-44a5-a290-18986ed945ad",
+    "name": "Elsa Dickens",
+    "email": "lindsey_cremin@gmail.com",
+    "createdAt": "2024-05-05T00:49:33.813Z",
+    "updatedAt": "2024-05-05T00:49:33.813Z"
+  },
+  {
+    "id": "69a699c6-0fa0-49df-8c41-7e711581ecb3",
+    "name": "Kathy Beier",
+    "email": "opal.armstrong45@gmail.com",
+    "createdAt": "2024-05-05T00:49:46.083Z",
+    "updatedAt": "2024-05-05T00:49:46.083Z"
+  },
+  {
+    "id": "03ce3caa-c797-451a-9bf7-1d5ae76d2c72",
+    "name": "Dr. Aubrey Barton",
+    "email": "juliana.weber61@hotmail.com",
+    "createdAt": "2024-05-05T00:56:46.660Z",
+    "updatedAt": "2024-05-05T00:56:46.660Z"
+  },
+  {
+    "id": "b9973d39-2145-4179-abc1-6cbe5e759f1c",
+    "name": "Rolando Abernathy Jr.",
+    "email": "sherwood.cremin@yahoo.com",
+    "createdAt": "2024-05-05T00:57:32.955Z",
+    "updatedAt": "2024-05-05T00:57:32.955Z"
+  },
+  {
+    "id": "d0b68740-f351-4b82-83b6-76d6253c16e6",
+    "name": "Sylvia Purdy",
+    "email": "angelica_kilback@gmail.com",
+    "createdAt": "2024-05-05T00:59:09.885Z",
+    "updatedAt": "2024-05-05T00:59:09.885Z"
+  },
+  {
+    "id": "7a9bd848-0c8d-4edd-ac3b-2aa50704985d",
+    "name": "Angela Corkery",
+    "email": "eva.ferry42@gmail.com",
+    "createdAt": "2024-05-05T00:59:36.626Z",
+    "updatedAt": "2024-05-05T00:59:36.626Z"
+  },
+  {
+    "id": "055956f0-c1ca-44cb-92de-3773b0d65282",
+    "name": "Dr. Lucia Hermann",
+    "email": "luciano.heathcote-cronin@hotmail.com",
+    "createdAt": "2024-05-05T01:01:02.097Z",
+    "updatedAt": "2024-05-05T01:01:02.097Z"
+  },
+  {
+    "id": "4656b2d2-0ced-42f7-959e-37c745842ef8",
+    "name": "Batman",
+    "email": "brucewayne@teste.com",
+    "createdAt": "2024-05-05T01:06:42.448Z",
+    "updatedAt": "2024-05-05T01:06:42.448Z"
+  },
+  {
+    "id": "cf7895bf-c46a-4473-ba0f-b7289d7a1891",
+    "name": "Bradford Koepp",
+    "email": "janelle_gorczany@hotmail.com",
+    "createdAt": "2024-05-05T01:18:31.367Z",
+    "updatedAt": "2024-05-05T01:18:31.367Z"
+  },
+  {
+    "id": "294039be-d1d0-4e47-b781-a9cec90c7943",
+    "name": "Francisco Dicki",
+    "email": "odessa_boyle59@yahoo.com",
+    "createdAt": "2024-05-05T01:19:22.303Z",
+    "updatedAt": "2024-05-05T01:19:22.303Z"
+  },
+  {
+    "id": "3c7c1c62-33fd-4b9c-b4b7-27dac39bda8e",
+    "name": "Randal Walsh IV",
+    "email": "cathy96@gmail.com",
+    "createdAt": "2024-05-05T01:19:45.716Z",
+    "updatedAt": "2024-05-05T01:19:45.716Z"
+  }
+]

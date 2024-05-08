@@ -1,0 +1,30 @@
+[
+    {
+        "id": "7ad5107c-e758-4990-8bc1-42b8b032ebfc",
+        "name": "fakerLisette",
+        "email": "iva_streich4@yahoo.com",
+        "createdAt": "2024-05-04T23:43:07.960Z",
+        "updatedAt": "2024-05-04T23:43:07.960Z"
+    },
+    {
+        "id": "c5a57a75-6c79-46e9-9b58-fad19caefccd",
+        "name": "fakerAssunta",
+        "email": "asa_kihn@yahoo.com",
+        "createdAt": "2024-05-04T23:53:29.225Z",
+        "updatedAt": "2024-05-04T23:53:29.225Z"
+    },
+    {
+        "id": "87e15066-1ac6-4ad6-9ba6-6cc842f44d31",
+        "name": "Maria Jose",
+        "email": "mariajose@example.com",
+        "createdAt": "2024-05-05T00:28:39.576Z",
+        "updatedAt": "2024-05-05T00:28:39.576Z"
+    },
+    {
+        "id": "b7e8b818-a62d-4f2c-99b3-db017b8b1f6e",
+        "name": "Internal Brand Assistant",
+        "email": "luciano67@gmail.com",
+        "createdAt": "2024-05-05T00:31:50.193Z",
+        "updatedAt": "2024-05-05T00:31:50.193Z"
+    }
+]
